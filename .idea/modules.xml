@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Handwarmers Default Template/.idea/Handwarmers Default Template.iml" filepath="$PROJECT_DIR$/../Handwarmers Default Template/.idea/Handwarmers Default Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Templates.iml" filepath="$PROJECT_DIR$/.idea/Templates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TrueCar Templates/.idea/TrueCar Templates.iml" filepath="$PROJECT_DIR$/../TrueCar Templates/.idea/TrueCar Templates.iml" />
+    </modules>
+  </component>
+</project>
